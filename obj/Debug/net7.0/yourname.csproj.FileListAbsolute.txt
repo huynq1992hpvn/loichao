@@ -1,0 +1,15 @@
+C:\Users\Nguyen Quang Huy\yourname\bin\Debug\net7.0\yourname.exe
+C:\Users\Nguyen Quang Huy\yourname\bin\Debug\net7.0\yourname.deps.json
+C:\Users\Nguyen Quang Huy\yourname\bin\Debug\net7.0\yourname.runtimeconfig.json
+C:\Users\Nguyen Quang Huy\yourname\bin\Debug\net7.0\yourname.dll
+C:\Users\Nguyen Quang Huy\yourname\bin\Debug\net7.0\yourname.pdb
+C:\Users\Nguyen Quang Huy\yourname\obj\Debug\net7.0\yourname.csproj.AssemblyReference.cache
+C:\Users\Nguyen Quang Huy\yourname\obj\Debug\net7.0\yourname.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nguyen Quang Huy\yourname\obj\Debug\net7.0\yourname.AssemblyInfoInputs.cache
+C:\Users\Nguyen Quang Huy\yourname\obj\Debug\net7.0\yourname.AssemblyInfo.cs
+C:\Users\Nguyen Quang Huy\yourname\obj\Debug\net7.0\yourname.csproj.CoreCompileInputs.cache
+C:\Users\Nguyen Quang Huy\yourname\obj\Debug\net7.0\yourname.dll
+C:\Users\Nguyen Quang Huy\yourname\obj\Debug\net7.0\refint\yourname.dll
+C:\Users\Nguyen Quang Huy\yourname\obj\Debug\net7.0\yourname.pdb
+C:\Users\Nguyen Quang Huy\yourname\obj\Debug\net7.0\yourname.genruntimeconfig.cache
+C:\Users\Nguyen Quang Huy\yourname\obj\Debug\net7.0\ref\yourname.dll
